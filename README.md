@@ -4,11 +4,8 @@ A Learning Management System (LMS) is a comprehensive software platform designed
 
 Pages: Login/Authentication Page, Dashboard, Admin Dashboard, User(administrator, faculty, student) Management Page, Course Management, Subject Management, Schedule Management, Reports and Analytics (faculty, student, class, course, and subject), Class Details.
 
-Student Access Email: juan.delacruz@ucc-lms.online
-Password: pass1234
+Student Access Email: shan@gmail.com
+Password: pass123
 
-Faculty Access Email: jose.torres@ucc-lms.online
-Password: pass1234
-
-Admin Access Email: system.administrator@ucc-lms.online
-Password: pass1234
+Faculty Access Email: emman@gmail.com
+Password: pass123
